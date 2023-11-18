@@ -1,6 +1,14 @@
-# nonsense stuff
+# Diary
 
 ## 2023
+
+### November
+
+- [2023-11-18](2023-11-18)
+
+### October
+
+- [2023-10-05](2023-10-05)
 
 ### September
 

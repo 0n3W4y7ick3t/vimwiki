@@ -1,4 +1,4 @@
-# index
+# [index](index)
 
 [vim](vim/vim)
 
